@@ -1,4 +1,4 @@
-## Welcome to GitHub Pager Wahahahahaha
+## Welcome to GitHub Pager Hello bae
 
 You can use the [editor on GitHub](https://github.com/EdgarChang/EdgarChang.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
